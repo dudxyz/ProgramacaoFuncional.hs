@@ -28,4 +28,4 @@ The repository is organized into different sections that cover the main topics o
 - Using higher-order functions for greater abstraction.
 
 ### 7. "Space Invaders" Game
-- An implementation of the "Space Invaders" game made entirely in Haskell using the [CodeWorld](https://github.com/google/codeworld) library.
+- An implementation of the "Space Invaders" game made entirely in Haskell using [CodeWorld](https://code.world/haskell).
